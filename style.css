@@ -10,7 +10,7 @@ main{
   .container{
     display: flex;
     flex-direction: column;
-    background: rgb(255,198,0);
+    background: rgb(240, 182, 235);
     width: 400px;
     height: 600px;
     align-items: center;
@@ -37,6 +37,7 @@ main{
     justify-content: space-between;
     align-items: center;
   }
+
   .input input {
     width: 200px;
     height: 50px;
