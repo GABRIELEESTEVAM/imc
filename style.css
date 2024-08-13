@@ -16,7 +16,7 @@ main{
     align-items: center;
     justify-content: space-evenly;
     border-radius: 20px;
-    box-shadow: 0 0 10px rgb(156, 130, 228);
+    box-shadow: 0 0 10px c1rgb(78, 48, 160);
   }
  
   .title{
@@ -57,7 +57,7 @@ main{
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
-    color: rgb(176, 158, 240);
+    color: rgb(139, 113, 233);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
@@ -73,7 +73,7 @@ main{
     font: italic 1.5rem serif;
     box-shadow: 0px 0px 10px black;
     background: #000;
-    color: rgb(148, 124, 233);
+    color: rgb(86, 47, 228);
     padding: 20px;
     box-sizing: border-box;
     user-select: none;
