@@ -10,7 +10,7 @@ main{
   .container{
     display: flex;
     flex-direction: column;
-    background: rgb(240, 182, 235);
+    background: rgb(155, 184, 53);
     width: 400px;
     height: 600px;
     align-items: center;
@@ -57,7 +57,7 @@ main{
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
-    color: rgb(240, 161, 250);
+    color: rgb(250, 161, 250);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
@@ -73,7 +73,7 @@ main{
     font: italic 1.5rem serif;
     box-shadow: 0px 0px 10px black;
     background: #000;
-    color: rgb(216, 167, 231);
+    color: rgb(44, 76, 180);
     padding: 20px;
     box-sizing: border-box;
     user-select: none;
