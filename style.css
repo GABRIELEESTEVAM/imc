@@ -56,8 +56,8 @@ main{
     width: 300px;
     height: 40px;
     font: bold 1.2rem serif;
-    background: #ffffff;
-    color: rgb(184, 149, 204);
+    background: #fbfcf8;
+    color: rgb(179, 141, 201);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
