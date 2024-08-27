@@ -49,13 +49,13 @@ main{
   }
  
   .input label {
-    font: Comic Sans  1.5rem serif;
+    font: bold  1.5rem serif;
   }
  
   button{
     width: 300px;
     height: 40px;
-    font: Comic Sans 1.2rem serif;
+    font: bold 1.2rem serif;
     background: #eed9f7;
     color: rgb(179, 141, 201);
     outline: none;
